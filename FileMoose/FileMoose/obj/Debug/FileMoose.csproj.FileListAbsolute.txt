@@ -1,0 +1,15 @@
+C:\Users\helen\source\repos\FileMoose\FileMoose\bin\Debug\FileMoose.exe.config
+C:\Users\helen\source\repos\FileMoose\FileMoose\bin\Debug\FileMoose.exe
+C:\Users\helen\source\repos\FileMoose\FileMoose\bin\Debug\FileMoose.pdb
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.csprojAssemblyReference.cache
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\MainWindow.g.cs
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\App.g.cs
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose_MarkupCompile.cache
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose_MarkupCompile.lref
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\MainWindow.baml
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.g.resources
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.Properties.Resources.resources
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.csproj.GenerateResource.cache
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.csproj.CoreCompileInputs.cache
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.exe
+C:\Users\helen\source\repos\FileMoose\FileMoose\obj\Debug\FileMoose.pdb
